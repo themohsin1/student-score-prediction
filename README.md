@@ -10,4 +10,4 @@ It includes:
 
 📂 A dataset (student_scores.csv) used to train the regression model.
 
-This project is ideal for beginners in Machine Learning to understand end-to-end workflow — from data preprocessing to model deployment.
+
